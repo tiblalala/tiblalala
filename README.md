@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tiblalala AKA Matt Tibbles
-- 👀 I’m interested in R, poker, philosophy, football, liquid dnb and 90's emo
+- 👀 I’m interested in R, stats, data-viz, poker, philosophy, football, liquid dnb and twinkly emo
 - 🌱 I’m currently learning UKMOD and my way around union street
 - 💞️ I’m looking to collaborate on whatever the hell comes my way
 - 📫 matthew.tibbles@london.gov.uk
